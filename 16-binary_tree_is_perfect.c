@@ -1,7 +1,4 @@
 #include "binary_trees.h"
-
-
-
 /**
  * binary_tree_is_perfect - a function that checks if a binary tree is perfect.
  * @tree: a pointer to the root node of the tree to check.
